@@ -1,2 +1,4 @@
-# ai-agents-hackathon-2026-sakgs-team
-Hackathon team repository for Sakg's Team - [hackindia-team:ai-agents-hackathon-2026:sakgs-team]
+<div align="center">
+  <h1>Mobile Sathi</h1>
+  <p><strong>An AI Agent lives on your phone and just does things for you, in your language</strong></p>
+</div>
