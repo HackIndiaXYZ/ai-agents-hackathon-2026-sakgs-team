@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "MobileSathi",
-    "slug": "MobileSathi",
+    "slug": "mobile-sathi",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -17,7 +17,8 @@
         "backgroundImage": "./assets/images/android-icon-background.png",
         "monochromeImage": "./assets/images/android-icon-monochrome.png"
       },
-      "predictiveBackGestureEnabled": false
+      "predictiveBackGestureEnabled": false,
+      "package": "com.sakgdevvvsteam.mobilesathi"
     },
     "web": {
       "output": "static",
@@ -39,6 +40,13 @@
     "experiments": {
       "typedRoutes": true,
       "reactCompiler": true
-    }
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "f792622f-509e-42dc-be63-814e4e79d3fd"
+      }
+    },
+    "owner": "sakgdevvvs-team"
   }
 }
